@@ -39,8 +39,9 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
      <img alt="React" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"  height="20"  />
      <img alt="React" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"  height="20"  />
      <img alt="React" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"  height="20"  />
+ </br>
 
-<p>🧑‍🚀 Live personal projects</p></br>
+<p>🧑‍🚀 Live personal projects</p>
 
 <span>Beside of my professional career as a Flutter developer, I also love to work on personal projects during my free time to explore the new tech stack besides to ramping up my personal development. Below are the projects that I've successfully launched. Everything is built by myself from scratch by using few interesting framework and tools. It including the aspect of UI/UX design.</span>
 
