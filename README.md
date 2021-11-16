@@ -68,8 +68,8 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
      <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.app.cahayaqurban.myqr"><b>MyQr</b></a></td>
       <td>Ecommerce for religous purpose <a href="https://www.islamic-relief.org/what-is-qurbani/">(qurban?)</a></td>
-      <td>🟢 Android app</td>
-      <td>⭕ Ionic </br>⭕ NestJS </br>⭕ MongoDB</td>
+      <td>🟢 Admin portal  </br> 🟢 Android app</td>
+      <td>⭕ Angular </br> ⭕ Ionic </br>⭕ NestJS </br>⭕ MongoDB</td>
     </tr>
 </table>
 
