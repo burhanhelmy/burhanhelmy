@@ -42,7 +42,7 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
 
 <p>🧑‍🚀 Live personal projects</p></br>
 
-<span>Beside of my professional career as a Flutter developer, I also like to work on personal projects during my free time to explore the new tech stack besides to ramping up my personal development. Below are the projects that I've successfully launched. Everything is built by myself from scratch by using few interesting framework and tools. It also including the aspect of UI/UX design.</span>
+<span>Beside of my professional career as a Flutter developer, I also love to work on personal projects during my free time to explore the new tech stack besides to ramping up my personal development. Below are the projects that I've successfully launched. Everything is built by myself from scratch by using few interesting framework and tools. It including the aspect of UI/UX design.</span>
 
 </br>
 
