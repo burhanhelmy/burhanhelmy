@@ -3,9 +3,7 @@
 
 I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555623.png" width="13"/> *Malaysia*, currently living in Kuala Lumpur. I’m interested in *frontend, mobile development and UI/UX*. I also occasionally working a *backend* development.</p>
 
-</br>
-
-<p>⌨️ My Tech Jams</p>
+<p>⌨️ My tech jams</p>
 <p>
  <img alt="Dart" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="20"  />
  <img alt="React" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  height="20"  />
@@ -41,12 +39,13 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
      <img alt="React" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"  height="20"  />
      <img alt="React" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"  height="20"  />
      <img alt="React" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"  height="20"  />
+
+<p>🧑‍🚀 Live personal projects</p></br>
+
+<span>Beside of my professional career as a Flutter developer, I also like to work on personal projects during my free time to explore the new tech stack besides to ramping up mu personal development. Below are the projects that I've successfully launched. Everything is built from scratch by using few interesting framework and tools.</span>
+
 </br>
-</br>
-<p>🧑‍🚀 Live Personal Projects</p>
-<span>Beside of my professional carrer as a Flutter developer, I also like to work on personal project during my free time to explore the new tech stack and working on my personal development. Below is the projects that I've successfully launch. Everything is build from scratch by using few interesting framework and tools.</span>
-</br>
-</br>
+
 <table>
   <tr>
      <th><b>🚧 Projects</b></th>
