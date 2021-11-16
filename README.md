@@ -1,9 +1,11 @@
 <h1>👋 Greetings!</h1>
-<p>Welcome to my page! </br>
+<p>🏠 Welcome to my page! </br>
 
-I'm <b>Burhan</b>, web and mobile developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555623.png" width="13"/> <b>Malaysia</b>, currently living in <b>Kuala Lumpur</b>. I’m interested in frontend, mobile development and UI/UX </p>
+I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555623.png" width="13"/> *Malaysia*, currently living in Kuala Lumpur. I’m interested in *frontend, mobile development and UI/UX*. I also occasionally working a *backend* development.</p>
 
-<h5>⌨️ My tech jams</h5>
+</br>
+
+<p>⌨️ My Tech Jams</p>
 <p>
  <img alt="Dart" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="20"  />
  <img alt="React" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  height="20"  />
@@ -38,5 +40,33 @@ I'm <b>Burhan</b>, web and mobile developer from  <img src="https://cdn-icons-pn
      <img alt="React" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  height="20"  />
      <img alt="React" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"  height="20"  />
      <img alt="React" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"  height="20"  />
+     <img alt="React" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"  height="20"  />
+</br>
+</br>
+<p>🧑‍🚀 Live Personal Projects</p>
+<span>Beside of my professional carrer as a Flutter developer, I also like to work on personal project during my free time to explore the new tech stack and working on my personal development. Below is the projects that I've successfully launch. Everything is build from scratch by using few interesting framework and tools.</span>
+</br>
+</br>
+<table>
+  <tr>
+     <th><b>🚧 Projects</b></th>
+      <th><b>ℹ️ Description</b></th>
+      <th><b>🔌 Component</b></th>
+      <th><b>🤖 Stack</b></th>
+  </tr>
+  <tr>
+    <td><a href="https://kadkawindigital.com/"><b>KadKawinDigital.com</b></a></td>
+      <td>SAAS to create digital weeding invitation card. User will able to customize card and share with other trough a URL</td>
+      <td>🟢 Landing page </br> 🟢 Customer portal </br> 🟢 Admin Portal</br> 🟢 Cloud Function</td>
+      <td>⭕ Angular </br> ⭕ Firebase Cloud Function </br> ⭕ Angular Material </br> ⭕ Stripe</td>
+  </tr>
+   <tr>
+      <td><a href="https://yeza-app.web.app/"><b>Yeza</b></a></td>
+      <td>SAAS to manage small business. User will able to track and manage their sales and inventory</td>
+      <td>🟢 Landing page </br> 🟢 iOS & Android app</td>
+      <td>⭕ Angular </br>⭕ Flutter </br>⭕ NestJS </br>⭕ MongoDB</td>
+    </tr>
+</table>
+
 
 
