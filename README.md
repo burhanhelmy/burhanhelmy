@@ -42,7 +42,7 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
 
 <p>🧑‍🚀 Live personal projects</p></br>
 
-<span>Beside of my professional career as a Flutter developer, I also like to work on personal projects during my free time to explore the new tech stack besides to ramping up mu personal development. Below are the projects that I've successfully launched. Everything is built from scratch by using few interesting framework and tools.</span>
+<span>Beside of my professional career as a Flutter developer, I also like to work on personal projects during my free time to explore the new tech stack besides to ramping up my personal development. Below are the projects that I've successfully launched. Everything is built by myself from scratch by using few interesting framework and tools. It also including the aspect of UI/UX design.</span>
 
 </br>
 
@@ -62,13 +62,13 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
    <tr>
       <td><a href="https://yeza-app.web.app/"><b>Yeza</b></a></td>
       <td>SAAS to manage small business. User will able to track and manage their sales and inventory</td>
-      <td>🟢 Landing page </br> 🟢 iOS & Android app</td>
+      <td>🟢 Landing page </br> 🟢 iOS & Android app 🟢 Api service</td>
       <td>⭕ Angular </br>⭕ Flutter </br>⭕ NestJS </br>⭕ MongoDB</td>
     </tr>
      <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.app.cahayaqurban.myqr"><b>MyQr</b></a></td>
       <td>Ecommerce for religous purpose <a href="https://www.islamic-relief.org/what-is-qurbani/">(qurban?)</a></td>
-      <td>🟢 Admin portal  </br> 🟢 Android app</td>
+      <td>🟢 Admin portal  </br> 🟢 Android app 🟢 Api service</td>
       <td>⭕ Angular </br> ⭕ Ionic </br>⭕ NestJS </br>⭕ MongoDB</td>
     </tr>
 </table>
