@@ -57,19 +57,19 @@ I'm *Burhan*, software developer from  <img src="https://cdn-icons-png.flaticon.
   <tr>
     <td><a href="https://kadkawindigital.com/"><b>KadKawinDigital.com</b></a></td>
       <td>SAAS to create digital weeding invitation card. User will able to customize card and share with other trough a URL</td>
-      <td>🟢 Landing page </br> 🟢 Customer portal </br> 🟢 Admin Portal</br> 🟢 Cloud Function</td>
+      <td>🟢 UI/UX </br> 🟢 Landing page </br> 🟢 Customer portal </br> 🟢 Admin Portal</br> 🟢 Cloud Function</td>
       <td>⭕ Angular </br> ⭕ Firebase Cloud Function </br> ⭕ Angular Material </br> ⭕ Stripe</td>
   </tr>
    <tr>
       <td><a href="https://yeza-app.web.app/"><b>Yeza</b></a></td>
       <td>SAAS to manage small business. User will able to track and manage their sales and inventory</td>
-      <td>🟢 Landing page </br> 🟢 iOS & Android app </br>  🟢 Api service</td>
+      <td>🟢 UI/UX </br> 🟢 Landing page </br> 🟢 iOS & Android app </br>  🟢 Api service</td>
       <td>⭕ Angular </br>⭕ Flutter </br>⭕ NestJS </br>⭕ MongoDB</td>
     </tr>
      <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.app.cahayaqurban.myqr"><b>MyQr</b></a></td>
       <td>Ecommerce for religous purpose <a href="https://www.islamic-relief.org/what-is-qurbani/">(qurban?)</a></td>
-      <td>🟢 Admin portal  </br> 🟢 Android app </br> 🟢 Api service</td>
+      <td>🟢 UI/UX </br> 🟢 Admin portal  </br> 🟢 Android app </br> 🟢 Api service</td>
       <td>⭕ Angular </br> ⭕ Ionic </br>⭕ NestJS </br>⭕ MongoDB</td>
     </tr>
 </table>
